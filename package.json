@@ -1,0 +1,35 @@
+{
+  "name": "icegods-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "watcher": "node scripts/watcher.js"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.8",
+    "@solana/web3.js": "^1.98.4",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0",
+    "next": "15.5.4",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.63.0",
+    "qrcode.react": "^4.2.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "uuid": "^13.0.0",
+    "viem": "^2.37.11",
+    "wagmi": "^2.17.5",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4",
+    "tailwindcss": "^4"
+  }
+}
