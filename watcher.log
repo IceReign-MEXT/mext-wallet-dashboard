@@ -4237,3 +4237,507 @@ JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perha
 JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
 JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
 JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2725, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2725, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2743, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2743, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2761, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2761, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2779, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2779, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2798, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2798, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2816, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2816, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2834, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2834, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2852, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2852, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2871, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2871, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2889, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2889, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2907, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2907, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2925, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2925, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2944, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2944, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2962, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2962, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2980, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2980, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 2998, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 2998, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 3016, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 3016, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+Watcher loop error Error: missing response for request (value=[ { "error": { "code": -32000, "message": "Unauthorized: You must authenticate your request with an API key. Create an account on https://www.ankr.com/rpc/ and generate your personal API key for free." }, "id": null, "jsonrpc": "2.0" } ], info={ "payload": { "id": 3034, "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [  ] } }, code=BAD_DATA, version=6.15.0)
+    at makeError (file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/utils/errors.js:132:21)
+    at file:///data/data/com.termux/files/home/mext-wallet-dashboard/icegods-dashboard/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:289:47
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 'BAD_DATA',
+  value: [ { jsonrpc: '2.0', error: [Object], id: null } ],
+  info: {
+    payload: { method: 'eth_blockNumber', params: [], id: 3034, jsonrpc: '2.0' }
+  },
+  shortMessage: 'missing response for request'
+}
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
+JsonRpcProvider failed to detect network and cannot start up; retry in 1s (perhaps the URL is wrong or the node is not started)
